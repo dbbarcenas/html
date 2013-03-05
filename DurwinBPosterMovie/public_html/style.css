@@ -1,0 +1,130 @@
+body {
+	background-color:#96B4DC;
+	background-color:#9689DC;
+}
+
+#pagebox {
+		width:760px;
+		margin:auto;
+		height:925px;
+		background-color:#96B4DC;
+		padding-right:20px;
+		padding-left:20px;
+}
+
+header{
+	color: #FFF;
+}
+
+header .name1{
+		text-align:left;
+		position:relative; 
+		bottom:-30px;
+		right:-30px;
+}
+
+header .name2{
+		text-align:right;
+		position:relative; 
+		top:-29px;
+		left:-30px;
+}
+
+		
+article {
+	height:500px;
+}
+
+section {
+	color: #FFF;
+}
+
+section .step {
+	text-align:center;
+	position:relative; 
+	left:-150px;
+	font-size: 5.5em;
+	color: #C92929;
+}
+
+section #grow {
+	text-align:center;
+	position:relative; 
+	right:-70px;
+	top:-130px
+}
+
+section .brothers {
+	text-align:center;
+	font-size: 5.5em;
+	position:relative;
+	top:-205px;
+	right:-40px;
+}
+
+section .date {
+	text-align:center;
+	font-size: 2em;
+	position:relative;
+	top:-300px;
+	color: #C92929;
+}
+
+section .producers {
+	text-align:center;
+	font-size: 1.3em;
+	position:relative;
+	top:-335px;
+	left:-70px;
+}
+section .tal {
+	text-align:right;
+	font-size: 1.3em;
+	position:relative;
+	top:-379px;
+	left:-145px;
+	color: #C92929;
+}
+
+footer {
+	color: #FFF;
+}
+
+footer .rate{
+	text-align:left;
+	font-size: 0.5em;
+	position:relative;
+	top:-403px;
+	right:-40px;
+}
+
+footer .info{
+	text-align:left;
+	font-size: 0.5em;
+	position:relative;
+	top:-412px;
+	right:-12px;
+}
+
+footer .site{
+	text-align:center;
+	font-size: 0.7em;
+	position:relative;
+	top:-438px;
+}
+
+footer .col{
+	text-align:right;
+	font-size: 0.5em;
+	position:relative;
+	top:-463px;
+	left:-3px;
+}
+
+footer .pic{
+	text-align:right;
+	font-size: 0.5em;
+	position:relative;
+	top:-473px;
+	left:-7px;
+}
