@@ -1,0 +1,67 @@
+html{
+	background-color: #32689A;
+}
+body{
+	font-size: 100%;
+	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+	color: #333;
+	width: 760px;
+	background-color: #FFF;
+	margin: 20px auto;
+	padding: 2em 2em 4em 2em;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+h1{
+	text-indent: -9999px;
+	margin-top: 0;
+	width: 200px;
+	height: 50px;
+	background: transparent url('images/paypal_logo.gif') no-repeat top left;
+}
+h2{
+	color: #C88039;
+}
+p em{
+	color: red;
+	font-style: normal;
+}
+form{
+}
+fieldset{
+	border: 1px solid #AAA;
+	margin: 1em 0;
+}
+legend{
+	font-size: 75%;
+	text-transform: uppercase;
+	color: #AAA;
+}
+fieldset div{
+	margin-bottom: 0.5em;
+}
+div label{
+	display: block;
+	width: 200px;
+	float: left;
+	text-align: right;
+	padding-right: 1em;
+}
+label.required:before{
+	color: red;
+	content: "* ";
+}
+label.error {
+	color: red;
+	float: right;
+}
+label img{
+	vertical-align: middle;
+}
+input[type=submit] {
+	float: right;
+}
+.fineprint{
+	font-size: 70%;
+}
