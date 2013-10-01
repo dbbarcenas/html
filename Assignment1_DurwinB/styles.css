@@ -3,7 +3,7 @@ body{
 	color: #333;
 	margin: 0;
 	padding: 0;
-	background-color: #76B3E8;
+	background-color: #008AB8;
 }
 header{
 	width: 900px;
@@ -23,7 +23,7 @@ header h2{
 	text-shadow: 0 0 10px #000;
 }
 nav{
-	width: 900px;
+	width: 1000px;
 	margin: 0 auto;
 }
 nav ul{
@@ -121,6 +121,16 @@ article #contact p{
 	width:17%;
 	font-size:15px;
 	
+}
+section table {
+	font-size:15px;
+	border-collapse:collapse;
+	border:1px solid;
+	margin-right:auto;
+	margin-left:auto;
+}
+section tbody tr:nth-child(odd) {
+	background: #CCC;
 }
 
 footer{
