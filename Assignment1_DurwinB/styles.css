@@ -57,7 +57,7 @@ nav li a:hover{
 }
 nav li a:active{
 	background-color: #FFF;
-	color: #F30;
+	color: #ff3300;
 }
 #page1 li:nth-of-type(1) a,
 #page2 li:nth-of-type(2) a,
